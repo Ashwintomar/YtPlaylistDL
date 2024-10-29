@@ -1,0 +1,6 @@
+# requirements.txt
+streamlit
+yt-dlp
+moviepy
+tqdm
+streamlit-option-menu
